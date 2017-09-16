@@ -6,7 +6,7 @@
 </p>
 
 
-#### Current version: `0.6.0`
+#### Current version: `0.7.1`
 
 ## What can this bot do?
 
