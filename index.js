@@ -1,6 +1,4 @@
-const {
-	Client
-} = require('discord.js');
+const client = require('discord.js');
 
 const tokens = require("./token.json");
 /////////////////////////// STOP /////////////////////////////
