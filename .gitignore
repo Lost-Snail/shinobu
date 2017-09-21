@@ -1,0 +1,8 @@
+# Ignoring stuff sinc3 2017
+# Contributed by Capuccino
+
+
+#node_modules
+
+ node_modules
+ 
